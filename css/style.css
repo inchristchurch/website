@@ -8983,7 +8983,7 @@ textarea.form-control {
   text-transform: uppercase;
   letter-spacing: 2px;
 
-  padding-right: 40em;
+  padding-right: 0;
   padding-left: 5em;
 
   position: relative;
@@ -9631,12 +9631,17 @@ textarea.form-control {
   -ms-transform: rotate(0deg);
   transform: rotate(0deg); }
 
+
+
 #ftco-loader .path {
   stroke-dasharray: 1, 200;
   stroke-dashoffset: 0;
   -webkit-animation: loader-dash 1.5s ease-in-out infinite;
   animation: loader-dash 1.5s ease-in-out infinite;
   stroke-linecap: round; }
+  
+
+  
 
 @-webkit-keyframes loader-rotate {
   100% {
@@ -16490,4 +16495,3 @@ h6 {
   font-size: 12px;
 }
 
-/*# sourceMappingURL=style.css.map */
