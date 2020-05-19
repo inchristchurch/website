@@ -8200,6 +8200,7 @@ h1, h2, h3, h4, h5,
       .ftco-navbar-light.scrolled .navbar-nav {
         background: none;
         border-radius: 0px;
+        text-align: right;
         padding-left: 0rem !important;
         padding-right: 0rem !important; } }
     .ftco-navbar-light.scrolled .navbar-toggler {
