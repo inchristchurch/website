@@ -6523,7 +6523,10 @@ button.bg-dark:focus {
 
 .ml-5,
 .mx-5 {
-  margin-left: 3rem !important; }
+  margin-left: 3rem !important; 
+  width: 100%;
+  padding-right: 7em;
+}
 
 .p-0 {
   padding: 0 !important; }
@@ -6751,7 +6754,9 @@ button.bg-dark:focus {
 
 .ml-auto,
 .mx-auto {
-  margin-left: auto !important; }
+  margin-left: auto !important; 
+  width: 100%;
+}
 
 @media (min-width: 576px) {
   .m-sm-0 {
@@ -7175,7 +7180,7 @@ button.bg-dark:focus {
     padding-bottom: 3rem !important; }
   .pl-md-5,
   .px-md-5 {
-    padding-left: 3rem !important; }
+    padding-left: 1rem !important; }
   .m-md-n1 {
     margin: -0.25rem !important; }
   .mt-md-n1,
@@ -8982,7 +8987,6 @@ textarea.form-control {
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 2px;
-
   padding-right: 0;
   padding-left: 5em;
 
