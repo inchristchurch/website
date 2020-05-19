@@ -8984,6 +8984,7 @@ textarea.form-control {
   letter-spacing: 1px; }
 
 .heading-section h2 {
+  margin-left:-6em;
   font-size: 34px;
   font-weight: 700;
   text-transform: uppercase;
